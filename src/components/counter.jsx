@@ -43,7 +43,7 @@ class Counter extends Component {
     return(
       <React.Fragment>
         <div style = {this.headingStyle}>
-          <h1>Counter App Using Vue JS </h1>
+          <h1>Counter App Using React JS </h1>
         </div>
         <div style = {this.divMargin}>
           <h1>
